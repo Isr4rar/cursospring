@@ -1,0 +1,14 @@
+Pré-Requisitos para aula de hoje:
+	Verifiquem se na maquina de vocês tem o git instalado usando: git --version
+	Conta no GITLAB
+		if(gitLab == nulll)
+			faça uma conta
+		else{
+			mande seu e-mail no grupo
+		}
+Agenda: 
+	Terminar o cadastro no campo de Treinamento
+	Configurar o GIT nas maquinas 
+	Subir nossos codigos para o repositorio do GIT
+
+	10.10.32.1:3228
